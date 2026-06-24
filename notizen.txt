@@ -2,3 +2,4 @@ Meine GitHub-Notizen:
    - Commit = Speicherpunkt
    - Push = hochladen
    - Pull = herunterladen
+   - Repository (Repo) = dein Projektordner, den Git überwacht
