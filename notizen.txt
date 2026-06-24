@@ -1,0 +1,4 @@
+Meine GitHub-Notizen:
+   - Commit = Speicherpunkt
+   - Push = hochladen
+   - Pull = herunterladen
